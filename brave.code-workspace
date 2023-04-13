@@ -1,0 +1,69 @@
+{
+	"folders": [
+		{
+			"name": "brave-core",
+			"path": "./src/brave"
+		},
+		{
+			"name": "chromium",
+			"path": "./src"
+		},
+		{
+			"name": "brave-browser",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"__bit_reference": "cpp",
+			"__config": "cpp",
+			"__debug": "cpp",
+			"__hash_table": "cpp",
+			"__node_handle": "cpp",
+			"__nullptr": "cpp",
+			"__split_buffer": "cpp",
+			"__tree": "cpp",
+			"__tuple": "cpp",
+			"array": "cpp",
+			"atomic": "cpp",
+			"cmath": "cpp",
+			"compare": "cpp",
+			"concepts": "cpp",
+			"cstddef": "cpp",
+			"cstdint": "cpp",
+			"cstdio": "cpp",
+			"cstdlib": "cpp",
+			"cstring": "cpp",
+			"cwchar": "cpp",
+			"deque": "cpp",
+			"exception": "cpp",
+			"initializer_list": "cpp",
+			"iosfwd": "cpp",
+			"limits": "cpp",
+			"map": "cpp",
+			"memory": "cpp",
+			"new": "cpp",
+			"numeric": "cpp",
+			"optional": "cpp",
+			"ostream": "cpp",
+			"set": "cpp",
+			"sstream": "cpp",
+			"stdexcept": "cpp",
+			"string": "cpp",
+			"string_view": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"typeinfo": "cpp",
+			"unordered_set": "cpp",
+			"variant": "cpp",
+			"vector": "cpp",
+			"algorithm": "cpp",
+			"*.tcc": "cpp",
+			"functional": "cpp",
+			"utility": "cpp",
+			"__functional_base": "cpp",
+			"iterator": "cpp",
+			"*.inc": "cpp"
+		}
+	}
+}
