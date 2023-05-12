@@ -53,8 +53,8 @@ Follow the instructions for your platform:
 Once you have the prerequisites installed, you can get the code and initialize the build environment.
 
 ```bash
-git clone git@github.com:brave/brave-core.git path-to-your-project-folder/src/brave
-cd path-to-your-project-folder/src/brave
+git clone https://github.com/popul/brave-core.git src/brave
+cd src/brave
 npm install
 
 # the Chromium source is downloaded, which has a large history (gigabytes of data)
